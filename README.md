@@ -1,3 +1,6 @@
+Arquivado em favor do novo site da guilda feito com [Elixir](https://github.com/guildatech/GuildaEx)
+
+
 # guildatech-components
 
 > Componentes react para o site da guildatech
